@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/safestack-ts/prettier-config#readme",
   "peerDependencies": {
-    "prettier": "2.5.1"
+    "prettier": "^2.8.8"
   }
 }
