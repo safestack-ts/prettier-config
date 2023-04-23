@@ -1,0 +1,26 @@
+{
+  "name": "@safestack/prettier-config",
+  "version": "1.0.0",
+  "description": "Opinionated prettier config",
+  "main": "./prettier-config.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safestack-ts/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "nodejs",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Yannick Stachelscheid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/safestack-ts/prettier-config/issues"
+  },
+  "homepage": "https://github.com/safestack-ts/prettier-config#readme"
+}
