@@ -1,6 +1,6 @@
 {
   "name": "@safestack/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Opinionated prettier config",
   "main": "./src/prettier-config.json",
   "scripts": {
