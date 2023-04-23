@@ -2,7 +2,7 @@
   "name": "@safestack/prettier-config",
   "version": "1.0.0",
   "description": "Opinionated prettier config",
-  "main": "./prettier-config.json",
+  "main": "./src/prettier-config.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/safestack-ts/prettier-config/issues"
   },
-  "homepage": "https://github.com/safestack-ts/prettier-config#readme"
+  "homepage": "https://github.com/safestack-ts/prettier-config#readme",
+  "peerDependencies": {
+    "prettier": "2.5.1"
+  }
 }
